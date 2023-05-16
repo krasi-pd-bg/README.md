@@ -1,4 +1,4 @@
 # README.md
-Hello, I am Krasimir Dimitrov
+### Hello, I am Krasimir Dimitrov
 
-JavaScript student
+### JavaScript student
